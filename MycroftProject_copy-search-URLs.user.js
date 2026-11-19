@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Copy search URL for Mycroft Project
+// @name        Mycroft Project - Copy search URL
 // @version     1.0
 // @description Adds a button to search engine install pages on Mycroft Project to easily copy the search URL to the clipboard.
 // @author      MapleGingerOatmeal
@@ -79,7 +79,7 @@
       background-color: #f9f9f9;
       font-family: monospace;
       font-size: small;
-	  font-weight: normal;
+	    font-weight: normal;
       color: #333;
       word-break: break-all;
       box-sizing: border-box;

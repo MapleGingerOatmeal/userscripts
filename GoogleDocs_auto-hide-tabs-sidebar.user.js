@@ -11,6 +11,7 @@
 // @grant       none
 // @icon        https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico
 // ==/UserScript==
+
 (function () {
   'use strict';
 

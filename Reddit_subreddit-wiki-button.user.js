@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        Reddit Subreddit Wiki Button
 // @version     1.0
+// @description Adds a Wiki button to subreddit masthead between Join button and overflow menu
 // @author	    MapleGingerOatmeal
 // @namespace   https://github.com/maplegingeroatmeal
 // @homepageURL https://github.com/maplegingeroatmeal/userscripts
 // @supportURL  https://github.com/maplegingeroatmeal/userscripts/issues
-// @description Adds a Wiki button to subreddit masthead between Join button and overflow menu
-// @match       *://www.reddit.com/r/*
+// @match       https://www.reddit.com/r/*
 // @run-at      document-idle
 // @icon		    https://www.redditstatic.com/shreddit/assets/favicon/192x192.png
 // ==/UserScript==
