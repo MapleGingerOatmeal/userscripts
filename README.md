@@ -78,3 +78,5 @@ Prevent clicks within the main Reddit feed from navigating to posts unless the p
 ### Subreddit Wiki button
 
 Adds a Wiki button to subreddit masthead between Join button and overflow menu
+
+![Reddit sidebar with "Wiki" button](assets/Reddit_subreddit-wiki-button_540x500.png)
